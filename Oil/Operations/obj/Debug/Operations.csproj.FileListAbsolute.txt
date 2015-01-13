@@ -1,0 +1,34 @@
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\Operations.dll.config
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\Operations.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\Operations.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\DomainClasses.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\OilContext.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\DomainClasses.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\OilContext.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\obj\Debug\Operations.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Operations\obj\Debug\Operations.pdb
+E:\Oil\Operations\bin\Debug\Operations.dll.config
+E:\Oil\Operations\bin\Debug\Operations.dll
+E:\Oil\Operations\bin\Debug\Operations.pdb
+E:\Oil\Operations\bin\Debug\DomainClasses.dll
+E:\Oil\Operations\bin\Debug\EntityFramework.dll
+E:\Oil\Operations\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oil\Operations\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Oil\Operations\bin\Debug\OilContext.dll
+E:\Oil\Operations\bin\Debug\System.Data.SqlServerCe.dll
+E:\Oil\Operations\bin\Debug\DomainClasses.pdb
+E:\Oil\Operations\bin\Debug\OilContext.pdb
+E:\Oil\Operations\bin\Debug\EntityFramework.xml
+E:\Oil\Operations\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oil\Operations\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Oil\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+E:\Oil\Operations\obj\Debug\Operations.dll
+E:\Oil\Operations\obj\Debug\Operations.pdb

@@ -1,0 +1,10 @@
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\DomainClasses\bin\Debug\DomainClasses.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\DomainClasses\bin\Debug\DomainClasses.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\DomainClasses\obj\Debug\DomainClasses.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\DomainClasses\obj\Debug\DomainClasses.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache
+E:\Oil\DomainClasses\bin\Debug\DomainClasses.dll
+E:\Oil\DomainClasses\bin\Debug\DomainClasses.pdb
+E:\Oil\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache
+E:\Oil\DomainClasses\obj\Debug\DomainClasses.dll
+E:\Oil\DomainClasses\obj\Debug\DomainClasses.pdb

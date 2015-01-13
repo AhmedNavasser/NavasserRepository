@@ -1,0 +1,82 @@
+﻿using System;
+using System.Windows.Forms;
+using System.IO;
+using Operations.Interfaces;
+
+
+namespace Client
+{
+    public partial class LoginForm : Form
+    {
+        private IUserOperation _userOperation;
+
+        public LoginForm()
+        {
+            InitializeComponent();
+            ThemeController.ThemeControl(this,Properties.Settings.Default.Theme,Controls);
+            Migrations.Migrate();
+            InitalizeObjects();
+        }
+
+        private void InitalizeObjects()
+        {
+            var container = ObjectIntializer.StructureMapInitializer();
+            _userOperation = container.TryGetInstance<IUserOperation>();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+            
+            
+            if (!File.Exists(Application.StartupPath + @"\OilDataBase.sdf"))
+            {
+                Properties.Settings.Default.UserCreated = false;
+                Properties.Settings.Default.Save();
+
+                if (Properties.Settings.Default.UserCreated == false)
+                {
+                    Hide();
+                    var newWelComeForm = new WelComeForm();
+                    newWelComeForm.ShowDialog();
+                }
+            }
+            
+           
+            seperatorLabel.Height = 2;
+            seperatorLabel.Width = Width - 45;
+        }
+
+        private void loginButton_Click(object sender, EventArgs e)
+        {
+            
+            Cursor.Current = Cursors.WaitCursor;       
+     
+            var user = _userOperation.GetUser(BitConverter.ToString( _userOperation.EncryptUserInfo(userNameTextBox.Text.Trim())));
+
+            if(user.UserName == BitConverter.ToString(_userOperation.EncryptUserInfo(userNameTextBox.Text)) && user.Password == BitConverter.ToString(_userOperation.EncryptUserInfo(passwordTextBox.Text)))
+            {
+                Hide();
+                var mainForm = new MainForm();
+                mainForm.Show();
+
+            }
+            else
+            {
+                MessageBox.Show(@"نام کاربری یا رمز عبور اشتباه می باشد. لطفاً ورودی های خود را کنترل نمایید",
+                    @"خطا در ورود", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+      
+
+        private void exitButton_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void virtualKeyBoardButton_Click ( object sender,EventArgs e )
+        {
+            System.Diagnostics.Process.Start("Osk.exe");
+        }
+    }
+}

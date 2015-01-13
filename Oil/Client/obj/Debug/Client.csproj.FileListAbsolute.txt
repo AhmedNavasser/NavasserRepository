@@ -1,0 +1,109 @@
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\Client.exe.config
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\Client.exe
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\Client.pdb
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.exe
+c:\users\cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.exe.licenses
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.OptionsForm.resources
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\DomainClasses.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\OilContext.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\Operations.dll
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\DomainClasses.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\OilContext.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\bin\Debug\Operations.pdb
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.NewRequestForm.resources
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.NewUserForm.resources
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.SplashForm.resources
+C:\Users\Cloud\documents\visual studio 2013\Projects\Oil\Client\obj\Debug\Client.WelComeForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.AddReqFromCoForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.NewProductCategoryForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.AddNewUserForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.SearchProductForm.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\obj\Debug\Client.EditUserInfoForm.resources
+G:\Project\Oil\Client\bin\Debug\Client.exe.config
+G:\Project\Oil\Client\obj\Debug\Client.exe
+G:\Project\Oil\Client\obj\Debug\Client.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\StructureMap.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\StructureMap.Net4.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\StructureMap.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\StructureMap.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\StructureMap.Net4.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Data.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Utils.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraGrid.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraLayout.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Data.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.Utils.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraGrid.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraLayout.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\Client\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+E:\Oil\Client\bin\Debug\Client.exe.config
+E:\Oil\Client\obj\Debug\Client.exe
+E:\Oil\Client\obj\Debug\Client.pdb
+E:\Oil\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Oil\Client\obj\Debug\Client.AddNewUserForm.resources
+E:\Oil\Client\obj\Debug\Client.AddReqFromCoForm.resources
+E:\Oil\Client\obj\Debug\Client.EditUserInfoForm.resources
+E:\Oil\Client\obj\Debug\Client.LoginForm.resources
+E:\Oil\Client\obj\Debug\Client.MainForm.resources
+E:\Oil\Client\obj\Debug\Client.NewProductCategoryForm.resources
+E:\Oil\Client\obj\Debug\Client.NewRequestForm.resources
+E:\Oil\Client\obj\Debug\Client.NewUserForm.resources
+E:\Oil\Client\obj\Debug\Client.OptionsForm.resources
+E:\Oil\Client\obj\Debug\Client.SearchProductForm.resources
+E:\Oil\Client\obj\Debug\Client.SplashForm.resources
+E:\Oil\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Oil\Client\obj\Debug\Client.WelComeForm.resources
+E:\Oil\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Oil\Client\obj\Debug\Client.exe.licenses

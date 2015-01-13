@@ -1,0 +1,34 @@
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\OilProjectUnitTests.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\OilProjectUnitTests.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\DomainClasses.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\OilContext.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\Operations.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\DomainClasses.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\OilContext.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\Operations.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Oil\OilProjectUnitTests\bin\Debug\OilProjectUnitTests.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\OilProjectUnitTests.pdb
+E:\Oil\OilProjectUnitTests\bin\Debug\DomainClasses.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\OilContext.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\Operations.dll
+E:\Oil\OilProjectUnitTests\bin\Debug\DomainClasses.pdb
+E:\Oil\OilProjectUnitTests\bin\Debug\OilContext.pdb
+E:\Oil\OilProjectUnitTests\bin\Debug\Operations.pdb
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.xml
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oil\OilProjectUnitTests\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.csprojResolveAssemblyReference.cache
+E:\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.dll
+E:\Oil\OilProjectUnitTests\obj\Debug\OilProjectUnitTests.pdb

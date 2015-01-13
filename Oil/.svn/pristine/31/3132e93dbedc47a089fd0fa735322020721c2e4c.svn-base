@@ -1,0 +1,229 @@
+﻿namespace Client
+{
+    partial class EditUserInfoForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose ( bool disposing )
+        {
+            if(disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent ()
+        {
+            this.searchGroupBox = new System.Windows.Forms.GroupBox();
+            this.userValiadatePictureBox = new System.Windows.Forms.PictureBox();
+            this.deleteButton = new DevExpress.XtraEditors.SimpleButton();
+            this.searchButton = new DevExpress.XtraEditors.SimpleButton();
+            this.userNameTextBox = new DevExpress.XtraEditors.TextEdit();
+            this.userNameLabel = new System.Windows.Forms.Label();
+            this.newProfileGroupBox = new System.Windows.Forms.GroupBox();
+            this.editButton = new DevExpress.XtraEditors.SimpleButton();
+            this.newPasswordTextBox = new System.Windows.Forms.TextBox();
+            this.newPasswordLabel = new System.Windows.Forms.Label();
+            this.NewUserNameTextBox = new System.Windows.Forms.TextBox();
+            this.newUserNameLabel = new System.Windows.Forms.Label();
+            this.formIconPictureBox = new System.Windows.Forms.PictureBox();
+            this.searchGroupBox.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.userValiadatePictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.userNameTextBox.Properties)).BeginInit();
+            this.newProfileGroupBox.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.formIconPictureBox)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // searchGroupBox
+            // 
+            this.searchGroupBox.Controls.Add(this.userValiadatePictureBox);
+            this.searchGroupBox.Controls.Add(this.deleteButton);
+            this.searchGroupBox.Controls.Add(this.searchButton);
+            this.searchGroupBox.Controls.Add(this.userNameTextBox);
+            this.searchGroupBox.Controls.Add(this.userNameLabel);
+            this.searchGroupBox.Location = new System.Drawing.Point(4, 124);
+            this.searchGroupBox.Name = "searchGroupBox";
+            this.searchGroupBox.Size = new System.Drawing.Size(616, 194);
+            this.searchGroupBox.TabIndex = 1;
+            this.searchGroupBox.TabStop = false;
+            this.searchGroupBox.Text = "مشخصات کاربر برای جستجو";
+            // 
+            // userValiadatePictureBox
+            // 
+            this.userValiadatePictureBox.Location = new System.Drawing.Point(258, 110);
+            this.userValiadatePictureBox.Name = "userValiadatePictureBox";
+            this.userValiadatePictureBox.Size = new System.Drawing.Size(80, 75);
+            this.userValiadatePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.userValiadatePictureBox.TabIndex = 4;
+            this.userValiadatePictureBox.TabStop = false;
+            // 
+            // deleteButton
+            // 
+            this.deleteButton.Appearance.Font = new System.Drawing.Font("Droid Arabic Naskh", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.deleteButton.Appearance.Options.UseFont = true;
+            this.deleteButton.Location = new System.Drawing.Point(8, 48);
+            this.deleteButton.Name = "deleteButton";
+            this.deleteButton.Size = new System.Drawing.Size(149, 46);
+            this.deleteButton.TabIndex = 3;
+            this.deleteButton.Text = "حذف";
+            this.deleteButton.Click += new System.EventHandler(this.deleteButton_Click);
+            // 
+            // searchButton
+            // 
+            this.searchButton.Appearance.Font = new System.Drawing.Font("Droid Arabic Naskh", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.searchButton.Appearance.Options.UseFont = true;
+            this.searchButton.Location = new System.Drawing.Point(175, 48);
+            this.searchButton.Name = "searchButton";
+            this.searchButton.Size = new System.Drawing.Size(149, 46);
+            this.searchButton.TabIndex = 2;
+            this.searchButton.Text = "جستجو";
+            this.searchButton.Click += new System.EventHandler(this.searchButton_Click);
+            // 
+            // userNameTextBox
+            // 
+            this.userNameTextBox.Location = new System.Drawing.Point(347, 53);
+            this.userNameTextBox.Name = "userNameTextBox";
+            this.userNameTextBox.Properties.Appearance.Font = new System.Drawing.Font("Droid Arabic Naskh", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.userNameTextBox.Properties.Appearance.Options.UseFont = true;
+            this.userNameTextBox.Size = new System.Drawing.Size(210, 32);
+            this.userNameTextBox.TabIndex = 1;
+            // 
+            // userNameLabel
+            // 
+            this.userNameLabel.AutoSize = true;
+            this.userNameLabel.Location = new System.Drawing.Point(563, 59);
+            this.userNameLabel.Name = "userNameLabel";
+            this.userNameLabel.Size = new System.Drawing.Size(51, 21);
+            this.userNameLabel.TabIndex = 0;
+            this.userNameLabel.Text = "نام کاربر:";
+            // 
+            // newProfileGroupBox
+            // 
+            this.newProfileGroupBox.Controls.Add(this.editButton);
+            this.newProfileGroupBox.Controls.Add(this.newPasswordTextBox);
+            this.newProfileGroupBox.Controls.Add(this.newPasswordLabel);
+            this.newProfileGroupBox.Controls.Add(this.NewUserNameTextBox);
+            this.newProfileGroupBox.Controls.Add(this.newUserNameLabel);
+            this.newProfileGroupBox.Location = new System.Drawing.Point(4, 324);
+            this.newProfileGroupBox.Name = "newProfileGroupBox";
+            this.newProfileGroupBox.Size = new System.Drawing.Size(616, 132);
+            this.newProfileGroupBox.TabIndex = 2;
+            this.newProfileGroupBox.TabStop = false;
+            this.newProfileGroupBox.Text = "مشخصات جدید";
+            // 
+            // editButton
+            // 
+            this.editButton.Appearance.Font = new System.Drawing.Font("Droid Arabic Naskh", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.editButton.Appearance.Options.UseFont = true;
+            this.editButton.Enabled = false;
+            this.editButton.Location = new System.Drawing.Point(10, 50);
+            this.editButton.Name = "editButton";
+            this.editButton.Size = new System.Drawing.Size(109, 46);
+            this.editButton.TabIndex = 4;
+            this.editButton.Text = "ویرایش";
+            // 
+            // newPasswordTextBox
+            // 
+            this.newPasswordTextBox.Location = new System.Drawing.Point(133, 60);
+            this.newPasswordTextBox.Name = "newPasswordTextBox";
+            this.newPasswordTextBox.Size = new System.Drawing.Size(171, 29);
+            this.newPasswordTextBox.TabIndex = 3;
+            this.newPasswordTextBox.TextChanged += new System.EventHandler(this.newPasswordTextBox_TextChanged);
+            this.newPasswordTextBox.Leave += new System.EventHandler(this.newPasswordTextBox_Leave);
+            // 
+            // newPasswordLabel
+            // 
+            this.newPasswordLabel.AutoSize = true;
+            this.newPasswordLabel.Location = new System.Drawing.Point(310, 63);
+            this.newPasswordLabel.Name = "newPasswordLabel";
+            this.newPasswordLabel.Size = new System.Drawing.Size(56, 21);
+            this.newPasswordLabel.TabIndex = 2;
+            this.newPasswordLabel.Text = "رمز جدید:";
+            // 
+            // NewUserNameTextBox
+            // 
+            this.NewUserNameTextBox.Location = new System.Drawing.Point(376, 60);
+            this.NewUserNameTextBox.Name = "NewUserNameTextBox";
+            this.NewUserNameTextBox.Size = new System.Drawing.Size(169, 29);
+            this.NewUserNameTextBox.TabIndex = 1;
+            this.NewUserNameTextBox.Leave += new System.EventHandler(this.NewUserNameTextBox_Leave);
+            // 
+            // newUserNameLabel
+            // 
+            this.newUserNameLabel.AutoSize = true;
+            this.newUserNameLabel.Location = new System.Drawing.Point(551, 63);
+            this.newUserNameLabel.Name = "newUserNameLabel";
+            this.newUserNameLabel.Size = new System.Drawing.Size(59, 21);
+            this.newUserNameLabel.TabIndex = 0;
+            this.newUserNameLabel.Text = "نام کاربری:";
+            // 
+            // formIconPictureBox
+            // 
+            this.formIconPictureBox.Image = global::Client.Properties.Resources.Update;
+            this.formIconPictureBox.Location = new System.Drawing.Point(0, 0);
+            this.formIconPictureBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.formIconPictureBox.Name = "formIconPictureBox";
+            this.formIconPictureBox.Size = new System.Drawing.Size(121, 116);
+            this.formIconPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.formIconPictureBox.TabIndex = 0;
+            this.formIconPictureBox.TabStop = false;
+            // 
+            // EditUserInfoForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 21F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(626, 468);
+            this.Controls.Add(this.newProfileGroupBox);
+            this.Controls.Add(this.searchGroupBox);
+            this.Controls.Add(this.formIconPictureBox);
+            this.Font = new System.Drawing.Font("Droid Arabic Naskh", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "EditUserInfoForm";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ویرایش مشخصات کاربر";
+            this.searchGroupBox.ResumeLayout(false);
+            this.searchGroupBox.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.userValiadatePictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.userNameTextBox.Properties)).EndInit();
+            this.newProfileGroupBox.ResumeLayout(false);
+            this.newProfileGroupBox.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.formIconPictureBox)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox formIconPictureBox;
+        private System.Windows.Forms.GroupBox searchGroupBox;
+        private DevExpress.XtraEditors.SimpleButton deleteButton;
+        private DevExpress.XtraEditors.SimpleButton searchButton;
+        private DevExpress.XtraEditors.TextEdit userNameTextBox;
+        private System.Windows.Forms.Label userNameLabel;
+        private System.Windows.Forms.GroupBox newProfileGroupBox;
+        private DevExpress.XtraEditors.SimpleButton editButton;
+        private System.Windows.Forms.TextBox newPasswordTextBox;
+        private System.Windows.Forms.Label newPasswordLabel;
+        private System.Windows.Forms.TextBox NewUserNameTextBox;
+        private System.Windows.Forms.Label newUserNameLabel;
+        private System.Windows.Forms.PictureBox userValiadatePictureBox;
+    }
+}

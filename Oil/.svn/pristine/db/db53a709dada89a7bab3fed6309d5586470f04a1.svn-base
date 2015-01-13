@@ -1,0 +1,93 @@
+﻿using System.Drawing;
+using System.Windows.Forms;
+using DevExpress.XtraEditors;
+using DevExpress.XtraGrid;
+
+namespace Client
+{
+    public class ThemeController 
+    {
+        public static void ThemeControl(Control ownerControl,int themeIndex, Control.ControlCollection controlCollection)
+        {
+            switch (themeIndex)
+            {
+                case 0:
+                    foreach (Control control in controlCollection)
+                    {
+                        if (ownerControl is Form)
+                            ownerControl.BackColor = ColorTranslator.FromHtml("#B4C1D9");
+
+                        if (control.HasChildren)
+                        {
+                            ThemeControl(ownerControl,themeIndex,control.Controls);
+                        }
+
+                        if (control is TreeView)
+                        {
+                            var treeView = control as TreeView;
+                            treeView.BackColor = ColorTranslator.FromHtml("#B4C1D9");
+                        }
+
+                        if (control is SimpleButton)
+                        {
+                            var button = control as SimpleButton;
+                            button.LookAndFeel.SkinName = "Visual Studio 2013 Blue";
+                            button.LookAndFeel.UseDefaultLookAndFeel = false;
+                        }
+
+                        if (control is TextEdit)
+                        {
+                            var textEdit = control as TextEdit;
+                            textEdit.LookAndFeel.SkinName = "Visual Studio 2013 Blue";
+                            textEdit.LookAndFeel.UseDefaultLookAndFeel = false;
+                        }
+
+                        if (control is GridControl)
+                        {
+                            var grideControl = control as GridControl;
+                            grideControl.LookAndFeel.SkinName = "Visual Studio 2013 Blue";
+                            grideControl.LookAndFeel.UseDefaultLookAndFeel = false;
+
+                        }
+                    }
+                    
+                    break;
+                case 1:
+                    foreach (Control control in controlCollection)
+                    {
+                        if (ownerControl is Form)
+                            ownerControl.BackColor = ColorTranslator.FromHtml("#F0F0F0");
+                        
+                        if (control.HasChildren)
+                        {
+                            ThemeControl(ownerControl,themeIndex, control.Controls);
+                        }
+
+                        if (control is SimpleButton)
+                        {
+                            var button = control as SimpleButton;
+                            button.LookAndFeel.SkinName = "Visual Studio 2013 Light";
+                            button.LookAndFeel.UseDefaultLookAndFeel = false;
+                        }
+
+                        if (control is TextEdit)
+                        {
+                            var textEdit = control as TextEdit;
+                            textEdit.LookAndFeel.SkinName = "Visual Studio 2013 Light";
+                            textEdit.LookAndFeel.UseDefaultLookAndFeel = false;
+                        }
+
+                        if (control is GridControl)
+                        {
+                            var grideControl = control as GridControl;
+                            grideControl.LookAndFeel.SkinName = "Visual Studio 2013 Light";
+                            grideControl.LookAndFeel.UseDefaultLookAndFeel = false;
+
+                        }
+                    }
+                    break;
+
+            }
+        }
+    }
+}

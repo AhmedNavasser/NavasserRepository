@@ -1,0 +1,23 @@
+using OilContext;
+using Operations;
+using Operations.Interfaces;
+using StructureMap;
+
+namespace Client
+{
+    public class ObjectIntializer
+    {
+        internal static Container StructureMapInitializer()
+        {
+            var container = new Container(config =>
+            {
+                config.For<IUnitOfWork>().Singleton().Use<OilDbContext>();
+                config.For<IUserOperation>().Use<UserOperation>();
+                config.For<ICategoryOperation>().Use<CategoryOpertion>();
+                config.For<IProductOperation>().Use<ProductOperation>();
+                config.For<IBackup>().Use<BackupOperation>();
+            });
+            return container;
+        }
+    }
+}

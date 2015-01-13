@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{268EE538-093B-4188-970C-4DB305841629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain Classes", "Domain Classes", "{224A500E-5BA3-4EDB-8948-616951E866E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainClasses", "DomainClasses\DomainClasses.csproj", "{3F1E63B4-26A1-4ABF-9403-05F57009CFAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OilContext", "OilContext", "{D5003EFE-8652-4E03-B4D9-74F4B7EF4B92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OilContext", "OilContext\OilContext.csproj", "{986B0637-C86D-43D5-9C46-37300BE0CF6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operations", "Operations", "{59E0C0E0-B0C3-4E91-9FDA-E4C71757CEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{3F125A7D-6861-4DB0-8150-D9F0039EB03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OilProjectUnitTests", "OilProjectUnitTests\OilProjectUnitTests.csproj", "{561744AB-5740-4C34-9390-C9FFF60A18F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{B19A22CD-DA8E-496F-960C-F2A8CD9E7460}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{B5F082F2-1A3D-438E-81AD-C91EF163C1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268EE538-093B-4188-970C-4DB305841629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268EE538-093B-4188-970C-4DB305841629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268EE538-093B-4188-970C-4DB305841629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268EE538-093B-4188-970C-4DB305841629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1E63B4-26A1-4ABF-9403-05F57009CFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1E63B4-26A1-4ABF-9403-05F57009CFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E63B4-26A1-4ABF-9403-05F57009CFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1E63B4-26A1-4ABF-9403-05F57009CFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986B0637-C86D-43D5-9C46-37300BE0CF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986B0637-C86D-43D5-9C46-37300BE0CF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986B0637-C86D-43D5-9C46-37300BE0CF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986B0637-C86D-43D5-9C46-37300BE0CF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F125A7D-6861-4DB0-8150-D9F0039EB03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F125A7D-6861-4DB0-8150-D9F0039EB03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F125A7D-6861-4DB0-8150-D9F0039EB03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F125A7D-6861-4DB0-8150-D9F0039EB03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561744AB-5740-4C34-9390-C9FFF60A18F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561744AB-5740-4C34-9390-C9FFF60A18F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561744AB-5740-4C34-9390-C9FFF60A18F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561744AB-5740-4C34-9390-C9FFF60A18F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{268EE538-093B-4188-970C-4DB305841629} = {B5F082F2-1A3D-438E-81AD-C91EF163C1A5}
+		{3F1E63B4-26A1-4ABF-9403-05F57009CFAB} = {224A500E-5BA3-4EDB-8948-616951E866E9}
+		{986B0637-C86D-43D5-9C46-37300BE0CF6A} = {D5003EFE-8652-4E03-B4D9-74F4B7EF4B92}
+		{3F125A7D-6861-4DB0-8150-D9F0039EB03F} = {59E0C0E0-B0C3-4E91-9FDA-E4C71757CEB9}
+		{561744AB-5740-4C34-9390-C9FFF60A18F0} = {B19A22CD-DA8E-496F-960C-F2A8CD9E7460}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
